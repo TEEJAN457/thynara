@@ -1,0 +1,490 @@
+{
+  "nav": {
+    "home": "Home",
+    "operations": "Operations",
+    "products": "Products",
+    "heritage": "Heritage",
+    "contact": "Contact"
+  },
+
+  "hero": {
+    "eyebrow": "Est. 2005 \u00a0\u00a0\u00b7\u00a0\u00a0 Tunis, Tunisie",
+    "subtitle": "Olive Oil \u00a0\u00b7\u00a0 Tradition \u00a0\u00b7\u00a0 Heritage",
+    "tagline": "From Tunisian Groves to Mediterranean Tables",
+    "scroll": "Scroll"
+  },
+
+  "statement": {
+    "number": "01",
+    "tag": "About",
+    "quote_l1": "Beneath every civilisation,",
+    "quote_l2": "the earth keeps its most",
+    "quote_l3": "honest truths",
+    "attr": "— Haj Mohamed Madani Ghouth, Founder",
+    "body1": "Founded in Tunis in 2005, THYNARA Group was born from a passion for olive cultivation in southern Tunisia — the ancient olive groves, the Mediterranean terroir, the patient craft of pressing liquid gold from fruit. We are an olive oil company in the truest sense: not of mass production, but of soil, of seasons, and of the sacred relationship between human hands and the olive tree.",
+    "body2": "For two decades, we have cultivated, pressed, and bottled olive oil across Tunisia and beyond — guided always by the conviction that what we produce nourishes the most fundamental needs of human life. That responsibility is not taken lightly. It never has been."
+  },
+
+  "operations": {
+    "eyebrow": "02 — Our Operations",
+    "title": "Areas of Excellence",
+    "card1_title": "Cultivation",
+    "card1_body": "We manage over 150,000 olive trees across groves in Sfax, Kairouan, and the Sahel region — sustained through responsible farming practices, seasonal pruning, and attentive soil management. Each tree is tended with the generational knowledge passed down through decades of Tunisian olive heritage.",
+    "card2_title": "Harvesting",
+    "card2_body": "Hand-picked and mechanically harvested at peak ripeness between October and January, our olives reach the mill within hours of harvest to preserve freshness, flavor, and polyphenol content. Timing is everything — and we have spent two decades perfecting ours.",
+    "card3_title": "Milling & Pressing",
+    "card3_body": "Cold-pressed within four hours of harvest at our state-of-the-art facilities. Two-phase extraction preserves the oil's natural character — its peppery finish, grassy aroma, and golden-green hue. Every batch is lab-tested against IOC standards before it leaves our care.",
+    "card4_title": "Bottling & Export",
+    "card4_body": "Bottled under nitrogen to preserve freshness, our oils are exported to 26 countries across Europe, North America, and the Gulf. Full traceability from grove to bottle — because provenance is not a marketing word, it's our promise.",
+    "export_eyebrow": "Global Reach — From Sfax to the World",
+    "export_title": "Our Export Network",
+    "export_subtitle": "THYNARA olive oil is trusted by importers, distributors, and culinary partners across the Middle East, North Africa, and Europe. Every shipment leaves our facility with full traceability — from grove to port.",
+    "export_stat1_val": "2,400",
+    "export_stat1_unit": "tonnes",
+    "export_stat1_label": "Exported to the Gulf region annually",
+    "export_stat2_val": "86",
+    "export_stat2_unit": "%",
+    "export_stat2_label": "On-time delivery rate across all markets",
+    "export_stat3_val": "14",
+    "export_stat3_unit": "days",
+    "export_stat3_label": "Average port-to-port transit to Gulf",
+    "export_stat4_val": "340",
+    "export_stat4_unit": "+",
+    "export_stat4_label": "Active B2B clients worldwide",
+    "export_region1": "Gulf Cooperation Council",
+    "export_region1_countries": "Saudi Arabia · UAE · Bahrain · Kuwait · Qatar · Oman",
+    "export_region1_body": "Our largest export region. THYNARA supplies major retail chains, hotel groups, and food service distributors across all six GCC states. Halal certified, with dedicated Arabic-language labeling and compliance with Gulf Standards Organization (GSO) regulations.",
+    "export_region1_vol": "2,400 tonnes/year",
+    "export_region2": "Levant & North Africa",
+    "export_region2_countries": "Jordan · Yemen · Libya · Algeria · Morocco",
+    "export_region2_body": "Strong demand for premium Tunisian EVOO across the Levant and Maghreb. Long-standing partnerships with Jordanian and Yemeni importers since 2012. Regional warehousing in Amman ensures rapid last-mile delivery.",
+    "export_region2_vol": "1,100 tonnes/year",
+    "export_region3": "Europe",
+    "export_region3_countries": "France · Italy · Germany · Spain · Scandinavia",
+    "export_region3_body": "Serving fine food importers, organic retailers, and private label partners. EU-compliant documentation, organic certification, and full CoA/CoO with every shipment. Bottled and bulk formats available.",
+    "export_region3_vol": "3,200 tonnes/year",
+    "export_region4": "North America",
+    "export_region4_countries": "United States · Canada",
+    "export_region4_body": "Growing presence in specialty food stores, Mediterranean delis, and e-commerce channels. FDA-compliant labeling, USDA organic eligible. Container shipments via Port of Sfax to East Coast ports.",
+    "export_region4_vol": "850 tonnes/year",
+    "export_quote": "We don't just ship olive oil — we deliver a promise. Every container that leaves Sfax carries the reputation we've spent two decades building.",
+    "export_quote_attr": "— Hechmi Lahmer, Cofounder",
+    "gallery_eyebrow": "Sakiet Ezzit, Sousse — Production Facility",
+    "gallery_title": "Inside Our Process",
+    "gallery_subtitle": "A look inside the daily operations at our Sakiet Ezzit facility — where raw olives become premium oil, and our team ensures every step meets the highest standards.",
+    "gallery1_caption": "Olive reception and sorting — freshly harvested fruit arrives at the facility within hours of picking.",
+    "gallery2_caption": "Cold-press extraction — two-phase milling preserves the oil's natural polyphenols and aroma.",
+    "gallery3_caption": "Quality control — every batch is tested for acidity, peroxide value, and organoleptic profile.",
+    "gallery4_caption": "The team — the people behind every bottle, committed to craft and precision since day one."
+  },
+
+  "products": {
+    "eyebrow": "03 — Our Product",
+    "title": "Extra Virgin Olive Oil",
+    "intro": "Our flagship oil — cold-pressed within hours of harvest from hand-selected Chemlali and Chetoui olives grown in the groves of Sfax and the Sahel. A single origin oil that embodies two decades of Tunisian craft.",
+    "p1_name": "Extra Virgin Olive Oil",
+    "p1_grade": "Cold-Pressed · <0.4% Acidity",
+    "p1_tag": "Premium",
+    "p1_desc": "Our flagship EVOO, cold-pressed within hours of harvest from hand-selected olives. Rich in polyphenols with a peppery finish and fruity aroma, certified by the International Olive Council. Perfect for finishing dishes, salads, and dipping.",
+
+    "specs_title": "Technical Specifications",
+    "spec_acidity": "Acidity",
+    "spec_acidity_val": "< 0.4%",
+    "spec_peroxide": "Peroxide Value",
+    "spec_peroxide_val": "< 12 meq O₂/kg",
+    "spec_polyphenols": "Polyphenols",
+    "spec_polyphenols_val": "280–420 mg/kg",
+    "spec_k232": "K232",
+    "spec_k232_val": "≤ 2.10",
+    "spec_k270": "K270",
+    "spec_k270_val": "≤ 0.18",
+    "spec_extraction": "Extraction",
+    "spec_extraction_val": "Two-phase cold-press, < 27°C",
+    "spec_varietal": "Varietals",
+    "spec_varietal_val": "Chemlali · Chetoui",
+    "spec_origin": "Origin",
+    "spec_origin_val": "Sfax & Sahel, Tunisia",
+
+    "tasting_title": "Tasting Notes",
+    "tasting_nose": "Nose",
+    "tasting_nose_val": "Green almond, freshly cut grass, artichoke leaf",
+    "tasting_palate": "Palate",
+    "tasting_palate_val": "Medium-bodied with a balanced peppery finish. Notes of ripe tomato and green olive give way to a lingering bitterness that indicates high polyphenol content.",
+    "tasting_finish": "Finish",
+    "tasting_finish_val": "Persistent, with gentle warmth at the back of the throat — a sign of superior quality cold-pressed oil.",
+    "tasting_pairing": "Best Paired With",
+    "tasting_pairing_val": "Grilled fish, fresh salads, bruschetta, roasted vegetables, aged cheese, artisan bread",
+
+    "cert_title": "Certifications & Standards",
+    "cert1": "IOC Trade Standard — full compliance",
+    "cert2": "ISO 9001:2015 — Quality Management",
+    "cert3": "ISO 22000 — Food Safety Management",
+    "cert4": "EU Regulation (EC) 29/2012 — Marketing standards",
+    "cert5": "Certificate of Analysis (CoA) with every batch",
+    "cert6": "Certificate of Origin (CoO) for all exports",
+
+    "storage_title": "Storage & Handling",
+    "storage1": "Store in a cool, dark place between 14–18°C",
+    "storage2": "Keep away from direct light and heat sources",
+    "storage3": "Use within 18 months of bottling for optimal flavour",
+    "storage4": "Seal tightly after each use to prevent oxidation",
+    "storage5": "Cloudiness at low temperatures is natural and reversible",
+
+    "packaging_title": "Available Formats",
+    "pkg1_size": "250 ml",
+    "pkg1_type": "Dark Glass Bottle",
+    "pkg2_size": "500 ml",
+    "pkg2_type": "Dark Glass Bottle",
+    "pkg3_size": "750 ml",
+    "pkg3_type": "Dark Glass Bottle",
+    "pkg4_size": "3 L",
+    "pkg4_type": "Metal Tin",
+    "pkg5_size": "5 L",
+    "pkg5_type": "Metal Tin",
+    "pkg6_size": "Bulk",
+    "pkg6_type": "Flexitank · ISO Tank",
+
+    "imgLabel": "Product Image"
+  },
+
+  "numbers": {
+    "eyebrow": "Key Figures",
+    "title": "The Weight of Our Presence",
+    "subtitle": "From our first grove planted in 2005, each number has been earned through patience, craft, and the rhythm of the seasons.",
+    "stat1_label": "Years of\nExpertise",
+    "stat2_label": "Tonnes Produced\nYearly",
+    "stat3_label": "Olive Trees\nCultivated",
+    "stat4_label": "Export\nCountries"
+  },
+
+  "heritage": {
+    "vert": "HERITAGE",
+    "eyebrow": "04 — Our Heritage",
+    "title_l1": "A Legacy Rooted",
+    "title_l2": "in Tunisian Soil",
+    "body1": "In 2005, a young agronomist from Sfax named Haj Mohamed Madani Ghouth returned from his studies with a conviction: that Tunisia's ancient olive groves — some trees over 1,000 years old — deserved a company that would honor their fruit with the care it demanded. Where others saw commodity oil for bulk export, Ghouth saw liquid gold waiting to be crafted.",
+    "body2": "The early years demanded everything. Building a modern mill in a region of traditional stone presses required patience and persuasion. But the first cold-pressed batch — tasted by importers in Marseille — confirmed what its founder always knew. The quality spoke for itself.",
+    "body3": "Today, THYNARA Group cultivates over 150,000 trees across Tunisia, with exports reaching 26 countries. The company's growth has been deliberate — never at the expense of quality or the land. Haj Mohamed Madani Ghouth remains Chairman and Hechmi Lahmer serves as Cofounder — their names inseparable from the groves they have spent a lifetime tending.",
+    "founders_alt": "Haj Mohamed Madani Ghouth and Hechmi Lahmer",
+    "founders_caption": "Haj Mohamed Madani Ghouth, Chairman & Founder, alongside Hechmi Lahmer, Cofounder — the two visionaries whose partnership built THYNARA from the groves of Sfax to 26 countries.",
+    "stat1_val": "2005",
+    "stat1_label": "Year\nFounded",
+    "stat2_val": "ISO 9001",
+    "stat2_label": "Quality\nCertified",
+    "stat3_val": "Sfax",
+    "stat3_label": "Place of\nOrigin",
+    "timeline_label": "Timeline",
+    "ms1": "THYNARA Group founded by Haj Mohamed Madani Ghouth and Hechmi Lahmer — two men united by a conviction that Tunisian olive oil deserved world-class craft.",
+    "ms2": "First groves acquired across the Sfax and Sahel regions. 12,000 olive trees brought under cultivation with sustainable farming practices.",
+    "ms3": "First export shipment of cold-pressed extra virgin olive oil reaches Marseille. International demand validated the founder's vision overnight.",
+    "ms4": "EU Organic certification achieved for flagship groves. THYNARA becomes one of Tunisia's first certified organic olive oil producers.",
+    "ms5": "State-of-the-art two-phase milling facility commissioned in Sfax. Processing capacity tripled while preserving cold-press quality standards.",
+    "ms6": "International expansion formalised with distribution agreements across the Gulf, North America, and Scandinavia. Flavored oil line launched.",
+    "ms7": "150,000 trees under cultivation. Exports to 26 countries. Gold Medal at the Mediterranean Olive Oil Competition. The legacy continues."
+  },
+
+  "founder": {
+    "portraitHint": "Owner Portrait",
+    "name": "Haj Mohamed Madani Ghouth",
+    "role": "Founder & Chairman",
+    "cofounder_name": "Hechmi Lahmer",
+    "cofounder_role": "Cofounder",
+    "est": "THYNARA Group · Est. 2005",
+    "eyebrow": "05 — The Founders",
+    "title_l1": "Built by Shared",
+    "title_l2": "Conviction",
+    "body1": "Haj Mohamed Madani Ghouth was born in Sfax, heart of Tunisia's olive country, where groves stretch to the horizon and the scent of pressed olives fills the autumn air. He grew up among the trees — learning to read the fruit's ripeness by touch, understanding the soil by instinct. It was this intimacy with the land that made him an olive oil maker before he ever studied one.",
+    "body2": "Together with Hechmi Lahmer, his trusted partner and cofounder, they pursued a shared vision: to build a Tunisian olive oil house worthy of the land's ancient heritage. Where Ghouth brought the agronomist's eye and the grower's instinct, Lahmer brought commercial acumen and an unwavering belief in Tunisian quality. They founded THYNARA Group together — and the first batch of cold-pressed oil that won a Mediterranean quality award proved them both right.",
+    "pullquote_start": "I did not build this company to be successful. I built it to be",
+    "pullquote_em": " true",
+    "pullquote_end": " — to prove that Tunisian soil and Tunisian hands, together, could create olive oil that stands alongside the finest in the world.",
+    "body3": "Today, Haj Mohamed Madani Ghouth leads THYNARA Group as Chairman, with Hechmi Lahmer serving as Cofounder. Together they remain personally involved in harvest strategy, insisting on tasting every new batch themselves. Their offices in Tunis overlook the lake — but their hearts are still in the groves of Sfax.",
+    "cred1_val": "INAT",
+    "cred1_label_l1": "Institut National",
+    "cred1_label_l2": "Agronomique de Tunis",
+    "cred2_val": "32",
+    "cred2_label_l1": "Age at",
+    "cred2_label_l2": "Founding",
+    "cred3_val": "2010",
+    "cred3_label_l1": "First Export",
+    "cred3_label_l2": "Shipment"
+  },
+
+  "footer": {
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "addressLabel": "Address",
+    "addr1": "Rue du Lac Windermere",
+    "addr2": "Les Berges du Lac, Tunis 1053",
+    "addr3": "Tunisia",
+    "note": "We are available Monday through Friday, 08:30–17:30 (CET). For partnership enquiries, please provide a brief description of your organisation and the nature of your request.",
+    "cta": "Send a message"
+  },
+
+  "footerBar": {
+    "copy": "© {year} THYNARA Group. All rights reserved. \u00a0·\u00a0 Tunis, Tunisia",
+    "privacy": "Privacy",
+    "legal": "Legal",
+    "sitemap": "Sitemap"
+  },
+
+  "home": {
+    "intro": {
+      "number": "01",
+      "tag": "About",
+      "quote_l1": "Beneath every civilisation,",
+      "quote_l2": "the earth keeps its most",
+      "quote_em": "honest truths",
+      "attr": "— Haj Mohamed Madani Ghouth, Founder",
+      "body1": "THYNARA Group was founded in 2005 by a Tunisian agronomist with a singular conviction: that Tunisia's ancient olive heritage — groves stretching across the south for centuries — deserved a company that would bring their fruit to the world with precision, dignity, and a deep respect for the land that nurtured it.",
+      "body2": "We are not a company of abstractions. We cultivate, we press, we bottle. From the ancient groves of Sfax to the Mediterranean ports of the north — everything we do is grounded in the rhythm of the seasons and the human craft of turning fruit into liquid gold.",
+      "foot1_val": "2005",
+      "foot1_label": "Founded",
+      "foot2_val": "Tunis",
+      "foot2_label": "Headquarters",
+      "foot3_val": "21",
+      "foot3_label": "Years of expertise"
+    },
+    "services": {
+      "eyebrow": "What We Do",
+      "title_l1": "Three Pillars of",
+      "title_l2": "Our Organisation",
+      "s1_title": "Operations",
+      "s1_desc": "Cultivation, harvesting, milling, and export — four integrated disciplines conducted across Tunisia's finest olive-growing regions with zero compromise on quality or craft.",
+      "s1_cta": "View operations",
+      "s2_title": "Products",
+      "s2_desc": "A premium olive oil portfolio built for the world's most discerning tables — from cold-pressed extra virgin and certified organic to flavored oils and bulk supply for global partners.",
+      "s2_cta": "View products",
+      "s3_title": "Heritage",
+      "s3_desc": "Twenty-one years. Two founders. A story that begins in the groves of Sfax and still shapes every harvest, every pressing, every bottle we produce today.",
+      "s3_cta": "Our story"
+    },
+    "numbers": {
+      "eyebrow": "Scale",
+      "title": "The Weight of Our Presence",
+      "subtitle": "From our first grove planted in 2005, each number has been earned through patience, craft, and the rhythm of the seasons."
+    },
+    "heritage": {
+      "tag": "Est. 2005 · Sfax, Tunisia",
+      "title_l1": "The Emblem Behind",
+      "title_l2": "Every Bottle",
+      "body1": "The THYNARA emblem was designed as a tribute to the deep cultural and agricultural heritage of Tunisia. Every element in the symbol reflects the values that define our olive oil: tradition, craftsmanship, and respect for the land.",
+      "body2": "More than a logo, it is a story — the story of Tunisian olive heritage, the dedication of our people, and the journey from grove to table.",
+      "link": "Discover our story",
+
+      "emblem_figure_title": "The Classical Figure",
+      "emblem_figure_body": "At the center stands a classical figure inspired by Mediterranean antiquity. She represents the spirit of the olive tradition that has existed in Tunisia for thousands of years. In her hands she holds a vessel of olive oil, symbolizing the transformation of olives into one of the most precious products of our land.",
+      "emblem_temple_title": "The Temple",
+      "emblem_temple_body": "Behind her stands a temple structure inspired by classical architecture — representing stability, heritage, and the timeless nature of olive cultivation in the Mediterranean. Just as ancient temples were built to last centuries, our approach to production is rooted in enduring values.",
+      "emblem_branches_title": "The Olive Branches",
+      "emblem_branches_body": "Surrounding the figure are olive branches — the most universal symbol of peace, prosperity, and life in Mediterranean culture. They represent the groves of Tunisia and the generations of farmers who have cared for these trees.",
+      "emblem_gold_title": "The Gold",
+      "emblem_gold_body": "The gold colour evokes the richness and purity of extra virgin olive oil. It reflects excellence, premium quality, and the warmth of the Mediterranean sun that nourishes our trees.",
+      "emblem_black_title": "The Black",
+      "emblem_black_body": "The deep black background expresses elegance and sophistication — allowing the golden emblem to stand with clarity and strength. This contrast mirrors the balance between tradition and modernity that defines THYNARA.",
+      "emblem_closing": "At THYNARA, this emblem reminds us that behind every bottle there is history, craftsmanship, and respect for the land.",
+
+      "date1_val": "2005",
+      "date1_label": "Founded",
+      "date2_val": "2010",
+      "date2_label": "First Export",
+      "date3_val": "2024",
+      "date3_label": "26 Export Countries"
+    },
+    "certifications": {
+      "eyebrow": "Trust & Standards",
+      "title": "Our Certifications",
+      "subtitle": "Every bottle we produce is backed by internationally recognised certifications — because quality is not a claim, it's a standard we prove.",
+      "cert1_name": "Organic / Bio",
+      "cert1_desc": "Certified Organic Production",
+      "cert1_logo": "/bio.png",
+      "cert2_name": "HACCP",
+      "cert2_desc": "Hazard Analysis & Critical Control",
+      "cert2_logo": "/haccp.png",
+      "cert3_name": "Halal",
+      "cert3_desc": "Halal Certified Product",
+      "cert3_logo": "/halal (1).png"
+    },
+    "products": {
+      "p4_grade": "Custom Solutions"
+    },
+    "cta": {
+      "eyebrow": "Begin a Conversation",
+      "title_l1": "Let's build something",
+      "title_l2": "that endures.",
+      "sub": "Whether you represent a fine food importer, a restaurant group, or a distribution network — our door is open to dialogue grounded in substance.",
+      "btn": "Get in touch"
+    }
+  },
+
+  "pages": {
+    "operations": {
+      "subtitle": "Our Operations",
+      "title": "Operations",
+      "desc": "From the ancient groves of Sfax to the export terminals of the Mediterranean — four integrated disciplines, one standard of excellence."
+    },
+    "products": {
+      "subtitle": "Our Products",
+      "title": "Products",
+      "desc": "Nearly four decades of olive oil craftsmanship, distilled into a range of premium oils trusted across the Mediterranean and beyond."
+    },
+    "heritage": {
+      "subtitle": "Our Heritage",
+      "title": "Heritage",
+      "desc": "A story that begins in the olive groves of Sfax and spans two decades — built on agronomic expertise, Tunisian pride, and an unwillingness to settle."
+    },
+    "contact": {
+      "subtitle": "Contact Us",
+      "title": "Contact",
+      "desc": "Whether you represent an importer, a distribution network, or a culinary partner — we welcome dialogue grounded in substance."
+    }
+  },
+
+  "ticker": {
+    "evoo": "Extra Virgin",
+    "voo": "Virgin Olive Oil",
+    "lampte": "Lampante Grade",
+    "pomace": "Pomace Oil"
+  },
+
+  "notifications": {
+    "justNow": "Just now",
+    "msg1": "New distribution partnership signed — Northern Europe",
+    "msg2": "2025 harvest report now available — record yields",
+    "msg3": "Production milestone: 12,000 tonnes of EVOO this season",
+    "msg4": "Gold Medal — Mediterranean Olive Oil Competition 2025",
+    "msg5": "EVOO prices up 2.1% — market update available",
+    "msg6": "New cold-press facility commissioned — Kairouan region",
+    "msg7": "14 importers currently viewing this page",
+    "msg8": "EU Organic certification renewed for 2026",
+    "msg9": "Sustainability report: 8,000 new trees planted this season",
+    "msg10": "Shipment dispatched — 40ft container, Port of Sfax",
+    "msg11": "3 new positions posted — Quality & Tasting Division",
+    "msg12": "New harvest: early-harvest EVOO now available — limited batch"
+  },
+
+  "chat": {
+    "label": "THYNARA AI",
+    "powered": "Powered by AI",
+    "placeholder": "Ask me anything about THYNARA…",
+    "closeChat": "Close chat",
+    "openChat": "Open chat",
+    "sendMessage": "Send message",
+    "greeting_morning": "Good morning",
+    "greeting_afternoon": "Good afternoon",
+    "greeting_evening": "Good evening",
+    "greeting_body": "I'm THYNARA's AI assistant — here to help you explore our olive oils, operations, and services. What can I assist you with?",
+    "chip1": "Our operations",
+    "chip2": "Product catalogue",
+    "chip3": "Partner with us",
+    "topics": {
+      "greet": [
+        "Welcome to THYNARA — a premium Tunisian olive oil producer. I can help you with information about our groves, olive oils, heritage, partnerships, careers, and more. What would you like to know?",
+        "Hello! Thank you for reaching out to THYNARA. I'm here to assist you with any questions — whether it's about our olive oil operations, product range, or business opportunities. How can I help?"
+      ],
+      "greet_followUp": ["What brings you to THYNARA today?"],
+      "upstream": [
+        "Our Cultivation division manages over 150,000 olive trees across groves in Sfax, Kairouan, and the Sahel region. We practice sustainable farming with seasonal pruning, organic soil management, and careful irrigation to produce the finest fruit.\n\nKey capabilities:\n• 150,000+ olive trees under cultivation\n• Sustainable farming & organic practices\n• Terroir-specific grove management\n• Seasonal pruning & soil health programmes\n• Varietals: Chetoui, Chemlali, Arbequina",
+        "THYNARA's groves are the foundation of everything we produce. Each tree is tended with generational knowledge — from soil preparation and planting through to canopy management and harvest readiness. Our agronomists monitor grove health year-round using a combination of traditional expertise and modern IoT soil sensors."
+      ],
+      "upstream_followUp": ["Would you like to know about a specific grove region or our farming practices?"],
+      "midstream": [
+        "Our Milling & Processing facilities are equipped with state-of-the-art two-phase extraction technology. Olives are cold-pressed within four hours of harvest to preserve freshness, polyphenol content, and the oil's natural character.\n\nProcessing highlights:\n• Cold-press extraction within 4 hours of harvest\n• Two-phase centrifugal separation\n• Temperature-controlled malaxation\n• Nitrogen-blanketed storage tanks\n• Full lab testing against IOC standards for every batch"
+      ],
+      "midstream_followUp": ["Interested in our milling technology or quality control processes?"],
+      "downstream": [
+        "THYNARA's Distribution operations encompass bottling, labeling, and export logistics. Our oils are bottled under nitrogen to preserve freshness and exported to 26 countries across Europe, North America, and the Gulf region.\n\nDistribution capabilities:\n• Nitrogen-sealed bottling lines\n• Glass, PET, and tin packaging options\n• Full traceability from grove to bottle\n• Warehouse facilities in Tunis and Sfax\n• Direct container shipping from Port of Sfax"
+      ],
+      "downstream_followUp": ["Want to learn about our packaging options or export logistics?"],
+      "trading": [
+        "Our Export desk manages international trade across 26 countries, handling both bulk and bottled olive oil shipments. We operate on major olive oil price indices with flexible contract terms.\n\nExport capabilities:\n• Bulk tanker and bottled shipments\n• FOB, CIF, and DDP delivery terms\n• Long-term supply agreements\n• Spot and contract pricing\n• Private label and co-packing services\n• Full documentation: CoA, CoO, phytosanitary certificates"
+      ],
+      "trading_followUp": ["Looking for pricing information or interested in a supply agreement?"],
+      "products": [
+        "THYNARA's product portfolio is crafted to meet the highest international standards:\n\n• **Extra Virgin Olive Oil** — Cold-pressed, <0.4% acidity, IOC certified\n• **Organic Olive Oil** — EU Organic certified, pesticide-free cultivation\n• **Flavored Olive Oils** — Lemon, chili, rosemary, garlic — natural infusion\n• **Bulk & Private Label** — Custom solutions for food manufacturers and importers\n\nAll products are batch-tested with full Certificates of Analysis (CoA) including acidity, peroxide value, and polyphenol content.",
+        "Our product line covers the full spectrum of premium olive oil. Each batch undergoes rigorous quality control — from grove selection through milling to final bottling. We can customize blending, packaging, and labeling to meet specific client and market requirements."
+      ],
+      "products_followUp": ["Need specifications for a particular product, or interested in bulk pricing?"],
+      "heritage": [
+        "THYNARA's heritage spans two decades of olive oil excellence. What began as one agronomist's vision in Sfax has grown into one of Tunisia's most respected olive oil producers — present across cultivation, milling, bottling, and international export.\n\nKey milestones:\n• 2005 — Founded by Haj Mohamed Madani Ghouth in Tunis\n• 2010 — First export shipment to Marseille\n• 1998 — EU Organic certification achieved\n• 2005 — Modern two-phase mill commissioned in Sfax\n• 2015 — Exports reach 20+ countries\n• 2025 — 150,000 trees, 26 countries, Gold Medal winner\n\nOur growth has been guided by a simple principle: quality is not negotiable."
+      ],
+      "heritage_followUp": ["Would you like to know about our founder or future vision?"],
+      "sustainability": [
+        "Sustainability is at the heart of our olive oil production, not an afterthought.\n\n**Environmental commitments:**\n• 8,000 new olive trees planted annually\n• Organic farming practices across certified groves\n• Water-efficient drip irrigation systems\n• Olive pomace recycled as natural compost and biomass fuel\n• Biodiversity corridors maintained between grove blocks\n\n**Community programmes:**\n• Supporting 200+ smallholder olive farmers with fair-trade pricing\n• Women's cooperatives partnership in rural Sfax region\n• Agricultural training for young Tunisian farmers\n• Solar-powered milling facilities reducing carbon footprint by 40%"
+      ],
+      "sustainability_followUp": ["Interested in our organic certification or community programmes?"],
+      "safety": [
+        "Food safety and quality are our license to operate. THYNARA maintains the highest standards across every facility.\n\n**Quality certifications:**\n• ISO 9001:2015 — Quality Management System\n• ISO 22000 — Food Safety Management\n• IOC Trade Standard — full compliance\n• EU Organic Regulation (EC) 834/2007\n\n**Laboratory capabilities:**\n• Acidity testing (free fatty acid analysis)\n• Peroxide value measurement\n• Polyphenol and tocopherol content analysis\n• UV absorbance (K232, K270)\n• Sensory panel evaluation (IOC-accredited tasters)\n\nEvery batch ships with a Certificate of Analysis (CoA) and Certificate of Origin (CoO)."
+      ],
+      "safety_followUp": ["Want details on our lab testing or IOC certifications?"],
+      "careers": [
+        "THYNARA is always looking for exceptional talent to join our growing team.\n\n**Current openings:**\n• Senior Agronomist — Grove Management Division\n• Olive Oil Taster & Quality Analyst — Sfax Laboratory\n• Export Manager — European Markets\n• Production Engineer — Milling & Bottling\n• Graduate Programme 2026 — 8 positions across disciplines\n\n**What we offer:**\n• Competitive compensation in the Tunisian agri-food sector\n• International exposure through export partnerships\n• Sponsored professional development (IOC tasting courses, agronomy seminars)\n• Comprehensive health & wellness benefits\n\nApplications are reviewed on a rolling basis."
+      ],
+      "careers_followUp": ["Would you like to apply for a specific role, or learn about our graduate programme?"],
+      "investment": [
+        "THYNARA offers strategic investment opportunities in one of the Mediterranean's most dynamic agricultural sectors.\n\n**Investment highlights:**\n• 150,000+ olive trees — a growing, tangible asset base\n• Exports to 26 countries with diversified revenue streams\n• Premium positioning with strong brand recognition\n• Consistent demand growth for quality olive oil globally\n\n**Partnership models:**\n• Equity participation — grove expansion & new facilities\n• Joint ventures — private label & co-branding\n• Offtake agreements — long-term bulk supply contracts\n• Land & grove development partnerships\n\nOur Finance team is available for detailed discussions and site visits."
+      ],
+      "investment_followUp": ["Shall I connect you with our Finance team, or provide our latest business overview?"],
+      "contact": [
+        "Here's how to reach us:\n\n**Corporate Headquarters**\nTHYNARA Group\nRue du Lac Windermere\nLes Berges du Lac, Tunis 1053, Tunisia\n\n**General inquiries:** contact@thynara.tn\n**Export & Sales:** export@thynara.tn\n**Media & Press:** press@thynara.tn\n**Careers:** careers@thynara.tn\n\n**Office hours:** Mon–Fri, 08:30–17:30 (CET)\n**Harvest season (Oct–Jan):** Extended hours available\n\nWould you like to schedule a meeting with a specific department?"
+      ],
+      "contact_followUp": ["Which department would you like to reach?"],
+      "pricing": [
+        "Olive oil pricing at THYNARA is determined by several factors:\n\n• **Oil grade** — Extra Virgin, Virgin, Organic, or Flavored\n• **Volume** — Per litre (retail), per tonne (bulk), per container (export)\n• **Contract term** — Spot, seasonal, or annual supply agreements\n• **Delivery basis** — FOB Sfax, CIF destination, or ex-works\n\nCurrent indicative pricing is available for qualified buyers. Our Export desk can prepare a tailored quotation within 24 hours, including quality specifications, packaging options, and delivery terms.\n\nShall I initiate a pricing request for you?"
+      ],
+      "pricing_followUp": ["What product grade and volume are you interested in?"],
+      "technology": [
+        "THYNARA invests in technology to preserve tradition while maximizing quality:\n\n**Modern Milling:**\n• Two-phase centrifugal extraction — preserves polyphenols\n• Temperature-controlled malaxation chambers\n• Nitrogen-blanketed storage preventing oxidation\n• Automated bottling with inert gas flushing\n\n**Grove Technology:**\n• IoT soil moisture and nutrient sensors across all groves\n• Drone-based canopy health monitoring\n• Weather station network for harvest timing optimization\n• Precision irrigation — 35% water savings vs. traditional methods\n\n**Quality Analytics:**\n• In-line NIR spectroscopy for real-time oil quality monitoring\n• Digital batch tracking from grove to bottle\n• Blockchain-ready traceability system"
+      ],
+      "technology_followUp": ["Interested in a specific technology, or exploring tech partnerships?"],
+      "quality": [
+        "Quality assurance is non-negotiable at THYNARA.\n\n**Certifications:**\n• ISO 9001:2015 — Quality Management\n• ISO 22000 — Food Safety Management\n• IOC Trade Standard Compliance\n• EU Organic Certification (EC) 834/2007\n• BRC Global Standard for Food Safety\n\n**Laboratory testing (every batch):**\n• Free fatty acid analysis (acidity <0.4% for EVOO)\n• Peroxide value (<20 meq O₂/kg)\n• UV absorbance — K232 & K270\n• Polyphenol content (mg/kg)\n• Sensory evaluation by IOC-accredited panel\n\nEvery shipment includes a Certificate of Analysis (CoA) and Certificate of Origin (CoO)."
+      ],
+      "quality_followUp": ["Need lab reports or specifications for a particular oil?"],
+      "shipping": [
+        "THYNARA manages end-to-end logistics for all olive oil shipments:\n\n**Bulk shipping:**\n• Flexitank containers (20,000–24,000 litres)\n• ISO tank containers for large volumes\n• Bulk tanker loading at Port of Sfax\n\n**Bottled shipments:**\n• Palletized containers (20ft & 40ft)\n• Glass, PET, and tin packaging options\n• Custom labeling and retail-ready packaging\n\n**Delivery terms:** FOB Sfax, CIF, CFR, DDP — flexible to client requirements.\n\nAll shipments include: Bill of Lading, Certificate of Analysis, Certificate of Origin, phytosanitary certificate, and customs documentation."
+      ],
+      "shipping_followUp": ["What destination and volume should I estimate logistics for?"],
+      "who": [
+        "THYNARA is a fully integrated olive oil company operating across the entire value chain — from grove cultivation and harvesting, through cold-press milling and bottling, to international export and distribution.\n\nWe combine two decades of Tunisian olive oil heritage with modern production technology to deliver premium oils to clients in 26 countries. Our operations span 150,000+ trees across Tunisia's finest olive-growing regions.\n\n**Core values:** Integrity, Quality, Craft, Sustainability\n**Vision:** To be the most trusted name in Mediterranean olive oil\n\nWhat aspect of THYNARA would you like to explore further?"
+      ],
+      "who_followUp": ["Operations, products, careers, or investment opportunities?"],
+      "thanks": [
+        "You're very welcome. It's been a pleasure assisting you. If you have any further questions in the future, don't hesitate to return — THYNARA AI is available 24/7.",
+        "Glad I could help! If there's anything else you'd like to know about THYNARA, I'm always here. Wishing you an excellent day.",
+        "Thank you for your kind words. The THYNARA team is always here to assist. Is there anything else I can help you with before we wrap up?"
+      ],
+      "bye": [
+        "Thank you for chatting with THYNARA AI. It was a pleasure assisting you. We look forward to hearing from you again. Have an excellent day.",
+        "Goodbye! If you ever need assistance, THYNARA AI is here 24/7. Wishing you all the best."
+      ],
+      "capabilities": [
+        "I can assist you with a wide range of topics:\n\n• **Operations** — Cultivation, Harvesting, Milling, Export\n• **Products** — Extra Virgin, Organic, Flavored, Bulk & Private Label\n• **Business** — Partnerships, investments, pricing, supply agreements\n• **Careers** — Current openings, graduate programmes\n• **Technical** — Quality specs, IOC certifications, lab testing\n• **Logistics** — Shipping, packaging, delivery terms\n• **Sustainability** — Organic farming, biodiversity, community programmes\n• **Contact** — Offices, departments, scheduling meetings\n\nJust ask your question and I'll provide the most relevant information."
+      ],
+      "capabilities_followUp": ["What topic interests you most?"],
+      "csr": [
+        "THYNARA is deeply committed to the communities where we cultivate:\n\n**Community programmes:**\n• Supporting 200+ smallholder olive farmers with fair-trade pricing and technical assistance\n• Women's cooperatives partnership — employing 120+ women in the Sfax region during harvest season\n• Rural school support — 6 schools renovated and supplied since 2015\n• Young farmer training programme — 85 graduates placed in agri-food careers\n• Environmental stewardship — 8,000 new trees planted annually, restoring degraded agricultural land\n\nWe allocate a portion of every export sale to our community development fund, governed by an independent advisory board."
+      ],
+      "csr_followUp": ["Want to learn about specific community projects or our farmer support programmes?"],
+      "competitor": [
+        "What sets THYNARA apart:\n\n• **Single-origin traceability** — Every bottle traceable to specific groves and harvest dates\n• **Cold-pressed within 4 hours** — Most competitors press within 24–48 hours, degrading quality\n• **Quality awards** — Multiple Gold Medals at Mediterranean and international competitions\n• **Nearly 40 years of expertise** — One of Tunisia's longest-established premium producers\n• **Direct relationships** — We own and manage our groves, unlike traders who buy on the open market\n• **Full certification** — IOC, EU Organic, ISO 9001, ISO 22000, BRC\n\nWe don't just sell olive oil — we craft it from tree to table with full accountability."
+      ],
+      "competitor_followUp": ["Would you like a detailed comparison on a specific capability?"],
+      "negative": [
+        "I'm sorry to hear that. Your feedback is very important to us. Let me connect you with our Client Relations team who can address your concern directly. Could you share your contact details or the specific issue?",
+        "I understand your frustration, and I sincerely apologize for any inconvenience. THYNARA takes every concern seriously. Our dedicated support team can investigate this immediately — would you like me to escalate this?",
+        "Thank you for bringing this to our attention. We hold ourselves to the highest standards, and when we fall short, we want to make it right. Please reach out to support@thynara.tn and reference this conversation for priority handling."
+      ],
+      "fallback1": "Thank you for your question. I'd be happy to help. Could you provide a bit more context? For example, are you interested in our olive oils, operations, business opportunities, or something else?",
+      "fallback1_chips": ["Operations", "Products", "Business", "Careers"],
+      "fallback2": "That's a great question. While I don't have the specific details on hand, our team would be best positioned to give you an accurate answer. I can:\n\n• Connect you with the relevant department\n• Have a specialist follow up via email within 24 hours\n• Schedule a call at your convenience\n\nWhich would you prefer?",
+      "fallback3": "I appreciate you sharing that. To make sure I'm directing you to the right resources, could you tell me a bit more about what you're looking for? I'm well-versed in our olive oils, operations, partnerships, sustainability efforts, and more."
+    }
+  },
+
+  "langSelector": {
+    "en": "EN",
+    "fr": "FR",
+    "ar": "عربي"
+  }
+}

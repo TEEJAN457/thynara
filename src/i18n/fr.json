@@ -1,0 +1,485 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "operations": "Opérations",
+    "products": "Produits",
+    "heritage": "Patrimoine",
+    "contact": "Contact"
+  },
+
+  "hero": {
+    "eyebrow": "Est. 2005 \u00a0\u00a0\u00b7\u00a0\u00a0 Sfax, Tunisie",
+    "subtitle": "Huile d'Olive \u00a0\u00b7\u00a0 Tradition \u00a0\u00b7\u00a0 Patrimoine",
+    "tagline": "Des oliveraies tunisiennes aux tables méditerranéennes",
+    "scroll": "Défiler"
+  },
+
+  "statement": {
+    "number": "01",
+    "tag": "À propos",
+    "quote_l1": "Sous chaque oliveraie,",
+    "quote_l2": "la terre murmure ses plus",
+    "quote_l3": "nobles secrets",
+    "attr": "— Haj Mohamed Madani Ghouth, Fondateur",
+    "body1": "Fondé à Sfax en 2005, le Groupe THYNARA est né de la passion d'un agronome pour l'olivier — ces arbres millénaires, le terroir méditerranéen du sud tunisien, et l'art patient de transformer le fruit en or liquide. Nous sommes une maison oléicole dans le sens le plus vrai : non pas d'abstractions industrielles, mais de sol, de racines, et de la rencontre entre le savoir-faire humain et la générosité de la terre.",
+    "body2": "Depuis près de deux décennies, nous avons cultivé, pressé et exporté une huile d'olive d'exception à travers la Méditerranée et au-delà — toujours guidés par la conviction que notre métier touche à ce qu'il y a de plus essentiel : nourrir, avec intégrité. Cette responsabilité n'est pas prise à la légère. Elle ne l'a jamais été."
+  },
+
+  "operations": {
+    "eyebrow": "02 — Nos Activités",
+    "title": "Domaines d'Excellence",
+    "card1_title": "Culture",
+    "card1_body": "Plus de 150 000 oliviers cultivés dans les régions de Sfax, Kairouan et le Sahel tunisien — des variétés ancestrales Chemlali et Chétoui entretenues selon des pratiques agricoles durables. Chaque parcelle est gérée avec une attention méticuleuse au sol, à l'irrigation et à la biodiversité.",
+    "card2_title": "Récolte",
+    "card2_body": "D'octobre à janvier, nos équipes récoltent les olives à la main et par procédés mécaniques, dans le respect du fruit. Les olives sont acheminées au moulin en quelques heures — car la fraîcheur détermine la qualité de l'huile, et chaque heure compte.",
+    "card3_title": "Trituration",
+    "card3_body": "Extraction à froid dans les quatre heures suivant la récolte, par procédé biphasique de dernière génération. Nos moulins respectent les normes du Conseil Oléicole International (COI). Pureté, régularité et profil organoleptique sont non négociables à chaque pressée.",
+    "card4_title": "Mise en bouteille & Export",
+    "card4_body": "Conditionnement sous azote pour préserver la fraîcheur, étiquetage conforme aux réglementations européennes, et traçabilité complète du verger à la bouteille. THYNARA exporte vers 26 pays — avec la précision d'une maison qui a bâti sa réputation sur l'excellence de chaque litre.",
+    "export_eyebrow": "Rayonnement mondial — De Sfax au monde entier",
+    "export_title": "Notre réseau d'exportation",
+    "export_subtitle": "L'huile d'olive THYNARA est plébiscitée par les importateurs, distributeurs et partenaires culinaires du Moyen-Orient, d'Afrique du Nord et d'Europe. Chaque expédition quitte notre site avec une traçabilité complète — du verger au port.",
+    "export_stat1_val": "2 400",
+    "export_stat1_unit": "tonnes",
+    "export_stat1_label": "Exportées vers la région du Golfe annuellement",
+    "export_stat2_val": "86",
+    "export_stat2_unit": "%",
+    "export_stat2_label": "Taux de livraison dans les délais sur tous les marchés",
+    "export_stat3_val": "14",
+    "export_stat3_unit": "jours",
+    "export_stat3_label": "Transit moyen port-à-port vers le Golfe",
+    "export_stat4_val": "340",
+    "export_stat4_unit": "+",
+    "export_stat4_label": "Clients B2B actifs dans le monde",
+    "export_region1": "Conseil de coopération du Golfe",
+    "export_region1_countries": "Arabie saoudite · EAU · Bahreïn · Koweït · Qatar · Oman",
+    "export_region1_body": "Notre première zone d'exportation. THYNARA approvisionne les grandes enseignes de distribution, les groupes hôteliers et les distributeurs de restauration à travers les six États du CCG. Certification halal, étiquetage en arabe et conformité aux normes du GSO.",
+    "export_region1_vol": "2 400 tonnes/an",
+    "export_region2": "Levant & Afrique du Nord",
+    "export_region2_countries": "Jordanie · Yémen · Libye · Algérie · Maroc",
+    "export_region2_body": "Forte demande pour l'EVOO tunisienne premium au Levant et au Maghreb. Des partenariats établis avec des importateurs jordaniens et yéménites depuis 2012. Entreposage régional à Amman pour une livraison rapide.",
+    "export_region2_vol": "1 100 tonnes/an",
+    "export_region3": "Europe",
+    "export_region3_countries": "France · Italie · Allemagne · Espagne · Scandinavie",
+    "export_region3_body": "Au service des importateurs gastronomiques, détaillants bio et partenaires marque propre. Documentation conforme à l'UE, certification biologique et CoA/CoO complets avec chaque expédition.",
+    "export_region3_vol": "3 200 tonnes/an",
+    "export_region4": "Amérique du Nord",
+    "export_region4_countries": "États-Unis · Canada",
+    "export_region4_body": "Présence croissante dans les épiceries fines, les delis méditerranéens et le e-commerce. Étiquetage conforme FDA, éligible USDA organic. Expéditions conteneurisées via le port de Sfax.",
+    "export_region4_vol": "850 tonnes/an",
+    "export_quote": "Nous n'expédions pas seulement de l'huile d'olive — nous livrons une promesse. Chaque conteneur qui quitte Sfax porte la réputation que nous avons bâtie en deux décennies.",
+    "export_quote_attr": "— Hechmi Lahmer, Cofondateur",
+    "gallery_eyebrow": "Sakiet Ezzit, Sousse — Unité de Production",
+    "gallery_title": "Au cœur de notre processus",
+    "gallery_subtitle": "Un regard sur les opérations quotidiennes de notre unité de Sakiet Ezzit — où les olives deviennent une huile d'exception, et où chaque étape répond aux normes les plus strictes.",
+    "gallery1_caption": "Réception et tri des olives — les fruits fraîchement récoltés arrivent à l'unité en quelques heures.",
+    "gallery2_caption": "Extraction à froid — la trituration biphasique préserve les polyphénols et les arômes naturels.",
+    "gallery3_caption": "Contrôle qualité — chaque lot est analysé pour l'acidité, l'indice de peroxyde et le profil organoleptique.",
+    "gallery4_caption": "L'équipe — les hommes et femmes derrière chaque bouteille, engagés dans la précision et le savoir-faire."
+  },
+
+  "products": {
+    "eyebrow": "03 — Notre Produit",
+    "title": "Huile d'Olive Extra Vierge",
+    "intro": "Notre huile phare — pressée à froid dans les heures suivant la récolte, à partir d'olives Chemlali et Chétoui sélectionnées à la main dans les oliveraies de Sfax et du Sahel. Une huile d'origine unique qui incarne près de deux décennies de savoir-faire tunisien.",
+    "p1_name": "Huile d'Olive Extra Vierge",
+    "p1_grade": "Première pression à froid — <0,4 % acidité",
+    "p1_tag": "Premium",
+    "p1_desc": "Notre fleuron. Extraite exclusivement par procédés mécaniques à froid, cette huile d'olive extra vierge affiche une acidité inférieure à 0,4 %. Arômes d'herbe fraîche, d'artichaut et d'amande — un profil organoleptique qui reflète le terroir unique du sud tunisien.",
+
+    "specs_title": "Spécifications Techniques",
+    "spec_acidity": "Acidité",
+    "spec_acidity_val": "< 0,4 %",
+    "spec_peroxide": "Indice de Peroxyde",
+    "spec_peroxide_val": "< 12 meq O₂/kg",
+    "spec_polyphenols": "Polyphénols",
+    "spec_polyphenols_val": "280–420 mg/kg",
+    "spec_k232": "K232",
+    "spec_k232_val": "≤ 2,10",
+    "spec_k270": "K270",
+    "spec_k270_val": "≤ 0,18",
+    "spec_extraction": "Extraction",
+    "spec_extraction_val": "Pression à froid biphasique, < 27°C",
+    "spec_varietal": "Variétés",
+    "spec_varietal_val": "Chemlali · Chétoui",
+    "spec_origin": "Origine",
+    "spec_origin_val": "Sfax & Sahel, Tunisie",
+
+    "tasting_title": "Notes de Dégustation",
+    "tasting_nose": "Nez",
+    "tasting_nose_val": "Amande verte, herbe fraîchement coupée, feuille d'artichaut",
+    "tasting_palate": "Bouche",
+    "tasting_palate_val": "Corps moyen avec une finale poivrée équilibrée. Des notes de tomate mûre et d'olive verte laissent place à une amertume persistante, signe d'une haute teneur en polyphénols.",
+    "tasting_finish": "Finale",
+    "tasting_finish_val": "Persistante, avec une chaleur douce en arrière-gorge — signe d'une huile pressée à froid de qualité supérieure.",
+    "tasting_pairing": "Accords Recommandés",
+    "tasting_pairing_val": "Poisson grillé, salades fraîches, bruschetta, légumes rôtis, fromages affinés, pain artisanal",
+
+    "cert_title": "Certifications & Normes",
+    "cert1": "Norme commerciale COI — conformité totale",
+    "cert2": "ISO 9001:2015 — Management de la Qualité",
+    "cert3": "ISO 22000 — Sécurité Alimentaire",
+    "cert4": "Règlement UE (CE) 29/2012 — Normes de commercialisation",
+    "cert5": "Certificat d'Analyse (CoA) pour chaque lot",
+    "cert6": "Certificat d'Origine (CoO) pour toutes les exportations",
+
+    "storage_title": "Conservation & Manipulation",
+    "storage1": "Conserver dans un endroit frais et sombre, entre 14–18°C",
+    "storage2": "Protéger de la lumière directe et des sources de chaleur",
+    "storage3": "Consommer dans les 18 mois suivant la mise en bouteille",
+    "storage4": "Refermer hermétiquement après chaque utilisation",
+    "storage5": "Un trouble à basse température est naturel et réversible",
+
+    "packaging_title": "Formats Disponibles",
+    "pkg1_size": "250 ml",
+    "pkg1_type": "Bouteille Verre Foncé",
+    "pkg2_size": "500 ml",
+    "pkg2_type": "Bouteille Verre Foncé",
+    "pkg3_size": "750 ml",
+    "pkg3_type": "Bouteille Verre Foncé",
+    "pkg4_size": "3 L",
+    "pkg4_type": "Bidon Métal",
+    "pkg5_size": "5 L",
+    "pkg5_type": "Bidon Métal",
+    "pkg6_size": "Vrac",
+    "pkg6_type": "Flexitank · Citerne ISO",
+
+    "imgLabel": "Image du produit"
+  },
+
+  "numbers": {
+    "eyebrow": "Chiffres Clés",
+    "title": "Le poids de notre présence",
+    "subtitle": "Depuis notre premier verger planté en 2005, ces chiffres n'ont cessé de croître à chaque récolte — chacun gagné par la patience et les saisons.",
+    "stat1_label": "Années\nd'expertise",
+    "stat2_label": "Tonnes produites\npar an",
+    "stat3_label": "Oliviers\ncultivés",
+    "stat4_label": "Pays\nd'exportation"
+  },
+
+  "heritage": {
+    "vert": "PATRIMOINE",
+    "eyebrow": "04 — Notre Héritage",
+    "title_l1": "Un héritage enraciné",
+    "title_l2": "dans le sol tunisien",
+    "body1": "En 2005, un jeune agronome de Sfax nommé Haj Mohamed Madani Ghouth est revenu de l'Institut National Agronomique de Tunis avec une conviction qui définirait l'œuvre de sa vie : que les oliveraies ancestrales du sud tunisien — héritières de trois mille ans de culture oléicole — méritaient d'être portées au niveau d'excellence mondiale. Là où d'autres voyaient des arbres fatigués et des méthodes dépassées, Ghouth voyait un potentiel immense — un terroir exceptionnel que son regard formé savait lire comme un texte sur une page.",
+    "body2": "Les premières années ont tout exigé. La remise en état des oliveraies de Sfax et du Sahel demandait une patience infinie. Le financement était rare, et le scepticisme des acteurs établis considérable. Mais en 2010, la première exportation d'huile d'olive THYNARA — un chargement d'extra vierge expédié vers Marseille — a confirmé ce que son fondateur avait toujours su. Ce premier conteneur a changé la trajectoire de l'entreprise du jour au lendemain.",
+    "body3": "Aujourd'hui, le Groupe THYNARA emploie plus de 840 spécialistes en Tunisie, avec une distribution couvrant 26 pays. La croissance de l'entreprise a été délibérée — jamais au détriment des pratiques agricoles durables ou de la qualité de l'huile. Haj Mohamed Madani Ghouth reste Président et Hechmi Lahmer Cofondateur — leurs noms indissociables des oliveraies qu'ils ont passé une vie à cultiver.",
+    "founders_alt": "Haj Mohamed Madani Ghouth et Hechmi Lahmer",
+    "founders_caption": "Haj Mohamed Madani Ghouth, Président-Fondateur, aux côtés de Hechmi Lahmer, Cofondateur — les deux visionnaires dont le partenariat a bâti THYNARA, des oliveraies de Sfax à 26 pays.",
+    "stat1_val": "2005",
+    "stat1_label": "Année de\nfondation",
+    "stat2_val": "ISO 9001",
+    "stat2_label": "Qualité\ncertifiée",
+    "stat3_val": "Sfax",
+    "stat3_label": "Lieu\nd'origine",
+    "timeline_label": "Chronologie",
+    "ms1": "Le Groupe THYNARA est fondé par Haj Mohamed Madani Ghouth et Hechmi Lahmer — deux hommes unis par la conviction que l'huile d'olive tunisienne méritait un savoir-faire de classe mondiale.",
+    "ms2": "Premiers vergers remis en état dans la région de Sfax. Plantation de 20 000 oliviers Chemlali et Chétoui sur les parcelles familiales.",
+    "ms3": "Installation du premier moulin à extraction à froid. Première campagne de trituration conforme aux normes du Conseil Oléicole International.",
+    "ms4": "Première exportation d'huile d'olive extra vierge vers Marseille. THYNARA franchit sa première frontière.",
+    "ms5": "Certification qualité ISO 9001 obtenue. Extension des oliveraies aux régions de Kairouan et du Sahel.",
+    "ms6": "Lancement de la gamme biologique et des huiles aromatisées. Entrée sur les marchés européens haut de gamme.",
+    "ms7": "Réseau de distribution international formalisé. 26 pays partenaires. 840 spécialistes. 150 000 oliviers en culture."
+  },
+
+  "founder": {
+    "portraitHint": "Portrait du fondateur",
+    "name": "Haj Mohamed Madani Ghouth",
+    "role": "Fondateur & Président",
+    "cofounder_name": "Hechmi Lahmer",
+    "cofounder_role": "Cofondateur",
+    "est": "Groupe THYNARA · Est. 2005",
+    "eyebrow": "05 — Les Fondateurs",
+    "title_l1": "Bâti par une conviction",
+    "title_l2": "partagée",
+    "body1": "Haj Mohamed Madani Ghouth est né à Sfax, au cœur du pays de l'olivier, là où les oliveraies s'étendent à perte de vue et où le parfum des fruits mûrs embaume l'air d'automne. Il a grandi parmi les arbres — observant les saisons, la taille, la récolte, la façon dont la lumière dorée glissait sur les feuilles argentées au crépuscule. C'est cette intimité avec l'olivier, son arbre, qui a fait de lui un agronome avant même qu'il n'en étudie un.",
+    "body2": "Avec Hechmi Lahmer, son partenaire de confiance et cofondateur, ils ont poursuivi une vision commune : bâtir une maison oléicole tunisienne digne de l'héritage ancestral de cette terre. Là où Ghouth apportait l'œil de l'agronome et l'instinct du cultivateur, Lahmer apportait le sens commercial et une foi inébranlable dans la qualité tunisienne. Ensemble, ils ont fondé le Groupe THYNARA — et la première cuvée d'huile pressée à froid primée en Méditerranée leur a donné raison à tous les deux.",
+    "pullquote_start": "Je n'ai pas bâti cette entreprise pour réussir. Je l'ai bâtie pour",
+    "pullquote_em": " prouver",
+    "pullquote_end": " — prouver que le sol tunisien et les mains tunisiennes, ensemble, pouvaient produire une huile d'olive de classe mondiale.",
+    "body3": "Aujourd'hui, Haj Mohamed Madani Ghouth dirige le Groupe THYNARA en tant que Président, aux côtés de Hechmi Lahmer, Cofondateur. Ensemble, ils restent personnellement impliqués dans la stratégie de récolte et la dégustation de chaque cuvée. Leurs bureaux dans le quartier des Berges du Lac à Tunis surplombent le lac — mais leurs cœurs sont toujours dans les oliveraies de Sfax.",
+    "cred1_val": "INAT",
+    "cred1_label_l1": "Institut National",
+    "cred1_label_l2": "Agronomique de Tunis",
+    "cred2_val": "32",
+    "cred2_label_l1": "Âge à la",
+    "cred2_label_l2": "fondation",
+    "cred3_val": "2010",
+    "cred3_label_l1": "Première",
+    "cred3_label_l2": "exportation"
+  },
+
+  "footer": {
+    "emailLabel": "Email",
+    "phoneLabel": "Téléphone",
+    "addressLabel": "Adresse",
+    "addr1": "Rue du Lac Windermere",
+    "addr2": "Les Berges du Lac, Tunis 1053",
+    "addr3": "Tunisie",
+    "note": "Nous sommes disponibles du lundi au vendredi, de 08h30 à 17h30 (CET). Pour les demandes de partenariat ou d'importation, veuillez fournir une brève description de votre organisation et la nature de votre demande.",
+    "cta": "Envoyer un message"
+  },
+
+  "footerBar": {
+    "copy": "© {year} Groupe THYNARA. Tous droits réservés. \u00a0·\u00a0 Tunis, Tunisie",
+    "privacy": "Confidentialité",
+    "legal": "Mentions légales",
+    "sitemap": "Plan du site"
+  },
+
+  "home": {
+    "intro": {
+      "number": "01",
+      "tag": "À propos",
+      "quote_l1": "Sous chaque oliveraie,",
+      "quote_l2": "la terre murmure ses plus",
+      "quote_em": "nobles secrets",
+      "attr": "— Haj Mohamed Madani Ghouth, Fondateur",
+      "body1": "Le Groupe THYNARA a été fondé en 2005 par un agronome tunisien animé d'une conviction singulière : que les oliveraies ancestrales du sud de la Tunisie recelaient un potentiel oléicole exceptionnel qui méritait d'être révélé au monde avec précision, dignité et un profond respect pour le terroir qui le portait.",
+      "body2": "Nous ne sommes pas une entreprise d'abstractions. Nous cultivons, nous pressons, nous exportons. Des oliveraies millénaires de Sfax aux tables de la Méditerranée — tout ce que nous faisons est ancré dans la réalité du sol et le savoir-faire des hommes qui le travaillent.",
+      "foot1_val": "2005",
+      "foot1_label": "Fondation",
+      "foot2_val": "Sfax",
+      "foot2_label": "Berceau",
+      "foot3_val": "21",
+      "foot3_label": "Années d'expertise"
+    },
+    "services": {
+      "eyebrow": "Nos métiers",
+      "title_l1": "Trois piliers de",
+      "title_l2": "notre organisation",
+      "s1_title": "Opérations",
+      "s1_desc": "Culture, récolte, trituration et mise en bouteille — quatre disciplines intégrées menées en Tunisie avec un soin absolu pour chaque étape, du verger à l'export.",
+      "s1_cta": "Voir les opérations",
+      "s2_title": "Produits",
+      "s2_desc": "Une gamme d'huiles d'olive d'exception conçue pour les marchés les plus exigeants — de l'extra vierge premium au biologique, des huiles aromatisées aux solutions vrac et marque blanche.",
+      "s2_cta": "Voir les produits",
+      "s3_title": "Patrimoine",
+      "s3_desc": "Vingt-et-un ans. Deux fondateurs. Une histoire qui commence dans les oliveraies de Sfax et façonne encore chaque récolte, chaque pressée, chaque décision que nous prenons aujourd'hui.",
+      "s3_cta": "Notre histoire"
+    },
+    "numbers": {
+      "eyebrow": "Échelle",
+      "title": "Le poids de notre présence",
+      "subtitle": "Depuis notre premier verger planté en 2005, chaque chiffre a été mérité — par la patience, les saisons, et l'obstination du savoir-faire."
+    },
+    "heritage": {
+      "tag": "Est. 2005 · Sfax, Tunisie",
+      "title_l1": "L'emblème derrière",
+      "title_l2": "chaque bouteille",
+      "body1": "L'emblème THYNARA a été conçu comme un hommage au patrimoine culturel et agricole profond de la Tunisie. Chaque élément du symbole reflète les valeurs qui définissent notre huile d'olive : tradition, savoir-faire et respect de la terre.",
+      "body2": "Plus qu'un logo, c'est une histoire — l'histoire du patrimoine oléicole tunisien, du dévouement de nos équipes et du voyage de l'oliveraie à la table.",
+      "link": "Découvrir notre histoire",
+
+      "emblem_figure_title": "La Figure Classique",
+      "emblem_figure_body": "Au centre se dresse une figure classique inspirée de l'Antiquité méditerranéenne. Elle représente l'esprit de la tradition oléicole qui existe en Tunisie depuis des millénaires. Dans ses mains, elle tient un vase d'huile d'olive, symbolisant la transformation des olives en l'un des produits les plus précieux de notre terre.",
+      "emblem_temple_title": "Le Temple",
+      "emblem_temple_body": "Derrière elle se dresse un temple inspiré de l'architecture classique — représentant la stabilité, le patrimoine et la nature intemporelle de l'oléiculture en Méditerranée. Tout comme les temples antiques ont été bâtis pour durer des siècles, notre approche repose sur des valeurs durables.",
+      "emblem_branches_title": "Les Branches d'Olivier",
+      "emblem_branches_body": "Autour de la figure, des branches d'olivier — le symbole le plus universel de paix, de prospérité et de vie en culture méditerranéenne. Elles représentent les oliveraies de Tunisie et les générations d'agriculteurs qui ont pris soin de ces arbres.",
+      "emblem_gold_title": "L'Or",
+      "emblem_gold_body": "La couleur or évoque la richesse et la pureté de l'huile d'olive extra vierge. Elle reflète l'excellence, la qualité premium et la chaleur du soleil méditerranéen qui nourrit nos oliviers.",
+      "emblem_black_title": "Le Noir",
+      "emblem_black_body": "Le fond noir profond exprime l'élégance et la sophistication — permettant à l'emblème doré de se détacher avec clarté et force. Ce contraste reflète l'équilibre entre tradition et modernité qui définit THYNARA.",
+      "emblem_closing": "Chez THYNARA, cet emblème nous rappelle que derrière chaque bouteille il y a de l'histoire, du savoir-faire et du respect pour la terre.",
+
+      "date1_val": "2005",
+      "date1_label": "Fondation",
+      "date2_val": "2010",
+      "date2_label": "Première exportation",
+      "date3_val": "2024",
+      "date3_label": "26 pays partenaires"
+    },
+    "certifications": {
+      "eyebrow": "Confiance & Normes",
+      "title": "Nos Certifications",
+      "subtitle": "Chaque bouteille que nous produisons est soutenue par des certifications reconnues internationalement — parce que la qualité n'est pas une affirmation, c'est une norme que nous prouvons.",
+      "cert1_name": "Biologique",
+      "cert1_desc": "Production Biologique Certifiée",
+      "cert1_logo": "/bio.png",
+      "cert2_name": "HACCP",
+      "cert2_desc": "Analyse des Dangers & Points Critiques",
+      "cert2_logo": "/haccp.png",
+      "cert3_name": "Halal",
+      "cert3_desc": "Produit Certifié Halal",
+      "cert3_logo": "/halal (1).png"
+    },
+    "cta": {
+      "eyebrow": "Engager le dialogue",
+      "title_l1": "Construisons quelque chose",
+      "title_l2": "qui perdure.",
+      "sub": "Que vous soyez importateur, distributeur, chef cuisinier ou marque de distributeur — notre porte est ouverte au dialogue fondé sur la qualité et la confiance.",
+      "btn": "Nous contacter"
+    }
+  },
+
+  "pages": {
+    "operations": {
+      "subtitle": "Nos Activités",
+      "title": "Opérations",
+      "desc": "Des oliveraies de Sfax aux ports méditerranéens — quatre disciplines intégrées, un seul standard d'excellence oléicole."
+    },
+    "products": {
+      "subtitle": "Notre Gamme",
+      "title": "Produits",
+      "desc": "Près de deux décennies de savoir-faire oléicole, distillées dans une gamme d'huiles d'olive de confiance pour les marchés les plus exigeants."
+    },
+    "heritage": {
+      "subtitle": "Notre Héritage",
+      "title": "Patrimoine",
+      "desc": "Une histoire qui commence dans les oliveraies de Sfax et s'étend sur deux décennies — bâtie sur l'excellence agronomique, la fierté tunisienne et un refus de compromis."
+    },
+    "contact": {
+      "subtitle": "Nous Contacter",
+      "title": "Contact",
+      "desc": "Que vous soyez importateur, distributeur ou professionnel de la restauration — nous accueillons le dialogue fondé sur la qualité et le respect mutuel."
+    }
+  },
+
+  "ticker": {
+    "evoo": "Extra Vierge",
+    "voo": "Huile d'Olive Vierge",
+    "lampte": "Grade Lampante",
+    "pomace": "Huile de Grignons"
+  },
+
+  "notifications": {
+    "justNow": "À l'instant",
+    "msg1": "Nouveau partenariat signé avec un importateur italien — région Ligurie",
+    "msg2": "Rapport de campagne oléicole 2025 désormais disponible",
+    "msg3": "Médaille d'Or — Concours International d'Huile d'Olive de Tokyo",
+    "msg4": "Cours de l'EVOO en hausse de 3,4 % — mise à jour marché disponible",
+    "msg5": "Nouveau moulin inauguré — capacité de trituration doublée",
+    "msg6": "Certification biologique EU renouvelée pour la campagne 2026",
+    "msg7": "14 importateurs consultent actuellement cette page",
+    "msg8": "12 000 nouveaux oliviers plantés — extension des vergers de Kairouan",
+    "msg9": "Conteneur expédié — destination Rotterdam, Pays-Bas",
+    "msg10": "Livraison vrac achevée — 22 tonnes EVOO vers Marseille",
+    "msg11": "3 nouveaux postes publiés — Division Qualité & Laboratoire",
+    "msg12": "Nouvelle récolte 2026 : premières olives pressées, profil exceptionnel"
+  },
+
+  "chat": {
+    "label": "THYNARA IA",
+    "powered": "Propulsé par l'IA",
+    "placeholder": "Posez-moi une question sur THYNARA…",
+    "closeChat": "Fermer le chat",
+    "openChat": "Ouvrir le chat",
+    "sendMessage": "Envoyer le message",
+    "greeting_morning": "Bonjour",
+    "greeting_afternoon": "Bon après-midi",
+    "greeting_evening": "Bonsoir",
+    "greeting_body": "Je suis l'assistant IA de THYNARA — ici pour vous aider à découvrir nos huiles d'olive, nos opérations et notre patrimoine. Comment puis-je vous aider ?",
+    "chip1": "Nos opérations",
+    "chip2": "Gamme d'huiles",
+    "chip3": "Devenir partenaire",
+    "topics": {
+      "greet": [
+        "Bienvenue chez THYNARA. Je suis votre assistant alimenté par l'IA. Je peux vous aider avec des informations sur nos huiles d'olive, nos opérations oléicoles, notre patrimoine, nos partenariats, nos certifications et plus encore. Que souhaitez-vous savoir ?",
+        "Bonjour ! Merci de contacter THYNARA. Je suis là pour répondre à toutes vos questions — qu'il s'agisse de nos huiles d'olive, de nos méthodes de culture et de trituration, ou d'opportunités d'importation. Comment puis-je vous aider ?"
+      ],
+      "greet_followUp": ["Qu'est-ce qui vous amène chez THYNARA aujourd'hui ?"],
+      "upstream": [
+        "Notre activité de culture oléicole gère plus de 150 000 oliviers à travers trois régions du sud tunisien — Sfax, Kairouan et le Sahel. Nos vergers sont composés principalement de variétés Chemlali (pour la douceur) et Chétoui (pour le fruité vert), cultivées selon des pratiques agricoles durables et raisonnées.\n\nCapacités clés :\n• Gestion de 150 000+ oliviers sur 3 régions\n• Variétés Chemlali, Chétoui et Oueslati\n• Agriculture durable et irrigation raisonnée\n• Analyse des sols et plan de fertilisation biologique\n• Programme de renouvellement et plantation de jeunes oliviers"
+      ],
+      "upstream_followUp": ["Souhaitez-vous en savoir plus sur nos variétés d'olives ou nos pratiques agricoles ?"],
+      "midstream": [
+        "Notre infrastructure de trituration comprend des moulins de dernière génération équipés de lignes d'extraction biphasiques à froid. Les olives sont traitées dans les 4 heures suivant la récolte pour garantir une qualité optimale.\n\nPoints forts de l'infrastructure :\n• Moulins à extraction à froid — capacité de 120 tonnes/jour\n• Système biphasique réduisant les déchets et préservant les polyphénols\n• Cuves inox sous azote — stockage jusqu'à 2 000 tonnes\n• Laboratoire d'analyse intégré (acidité, peroxydes, profil organoleptique)\n• Traçabilité complète du verger à la cuve"
+      ],
+      "midstream_followUp": ["Intéressé par nos capacités de trituration ou notre technologie d'extraction ?"],
+      "downstream": [
+        "Les opérations aval de THYNARA englobent la mise en bouteille, le conditionnement et la distribution internationale. Notre ligne d'embouteillage traite jusqu'à 8 000 bouteilles par heure, avec un conditionnement sous azote pour préserver la fraîcheur et les arômes.\n\nSpécifications de la ligne :\n• Embouteillage : 8 000 unités/heure (250 ml à 5 L)\n• Conditionnement sous atmosphère d'azote\n• Étiquetage multilingue conforme aux normes EU\n• Formats : bouteilles verre, PET, bag-in-box, citernes flexitank\n• Expédition conteneurs complets ou groupage"
+      ],
+      "downstream_followUp": ["Voulez-vous en savoir plus sur nos formats de conditionnement ou notre logistique d'export ?"],
+      "trading": [
+        "Notre division commerciale gère les exportations vers 26 pays, avec un volume annuel dépassant 8 000 tonnes d'huile d'olive. Nous opérons sur les marchés européens, nord-américains, asiatiques et du Golfe, avec une expertise particulière en vrac et marque blanche.\n\nCapacités commerciales :\n• Export vers 26 pays sur 4 continents\n• Vrac (citernes, flexitank, IBC) et conditionné\n• Marque blanche et co-branding\n• Contrats annuels et vente spot\n• Incoterms : FOB, CIF, CFR, DDP\n• Conformité documentaire export (EUR.1, certificats sanitaires, COI)"
+      ],
+      "trading_followUp": ["Recherchez-vous des informations sur les prix ou intéressé par un contrat d'approvisionnement ?"],
+      "products": [
+        "La gamme de produits THYNARA est conçue pour répondre aux normes internationales les plus élevées :\n\n• **Huile d'Olive Extra Vierge** — Première pression à froid, <0,4 % acidité, profil fruité vert intense\n• **Huile d'Olive Biologique** — Certifiée EU Organic / AB, traçabilité parcellaire\n• **Huiles Aromatisées** — Infusions naturelles : citron, piment, romarin, ail\n• **Huile d'Olive Vierge** — Acidité <2 %, idéale pour la cuisson\n• **Vrac & Marque Blanche** — Solutions B2B sur mesure, volumes de 1 t à conteneurs complets\n\nToutes nos huiles sont analysées en laboratoire et accompagnées de Certificats d'Analyse conformes aux normes du COI."
+      ],
+      "products_followUp": ["Besoin de spécifications pour un produit particulier, ou intéressé par les tarifs à l'export ?"],
+      "heritage": [
+        "Le patrimoine de THYNARA s'étend sur près de deux décennies d'excellence oléicole. Ce qui a commencé comme la passion d'un agronome de Sfax a évolué en une maison oléicole de référence — présente de la culture à l'exportation internationale.\n\nJalons clés :\n• 2005 — Fondation par Haj Mohamed Madani Ghouth à Sfax\n• 1989 — Premiers vergers remis en état, 20 000 oliviers plantés\n• 1990 — Installation du premier moulin à extraction à froid\n• 2010 — Première exportation d'huile d'olive extra vierge vers Marseille\n• 2002 — Certification ISO 9001, extension aux régions de Kairouan et du Sahel\n• 2015 — Lancement de la gamme biologique et des huiles aromatisées\n• 2024 — 26 pays partenaires, 150 000 oliviers, 840 spécialistes\n\nNotre croissance a été guidée par un principe simple : l'excellence oléicole n'est pas négociable."
+      ],
+      "heritage_followUp": ["Souhaitez-vous en savoir plus sur notre fondateur ou notre vision pour l'avenir ?"],
+      "sustainability": [
+        "La durabilité est au cœur de notre métier d'oléiculteur — elle n'est pas un ajout, mais l'essence même de notre activité.\n\n**Engagements agricoles :**\n• Agriculture raisonnée et biologique sur 40 % de nos parcelles\n• Zéro pesticide chimique sur les vergers certifiés bio\n• Irrigation goutte-à-goutte — réduction de 60 % de la consommation d'eau\n• Valorisation des grignons d'olive en compost et bioénergie\n\n**Programmes communautaires :**\n• Soutien à 120 petits oléiculteurs locaux via des contrats équitables\n• Coopératives féminines — 8 partenariats actifs dans le Sahel\n• Formation aux pratiques durables pour les jeunes agriculteurs\n• Plantation de 12 000 oliviers par an — renouvellement du patrimoine arboricole\n\nCertifications : EU Organic, ISO 14001, membre du Pacte Mondial des Nations Unies"
+      ],
+      "sustainability_followUp": ["Intéressé par nos pratiques biologiques ou nos programmes de soutien aux communautés locales ?"],
+      "safety": [
+        "La sécurité alimentaire et la conformité sont au cœur de nos opérations. THYNARA maintient les plus hauts standards de qualité à chaque étape — du verger à la bouteille.\n\n**Certifications qualité :**\n• ISO 9001:2015 — Management de la Qualité\n• ISO 22000:2018 — Sécurité des Denrées Alimentaires\n• HACCP — Analyse des dangers et points critiques\n• Normes COI — Conseil Oléicole International\n• BRC Food Safety — Grade A\n\n**Contrôles qualité :**\n• Analyse d'acidité, indice de peroxyde, K232/K270 sur chaque lot\n• Panel de dégustation certifié COI — évaluation organoleptique\n• Recherche de contaminants (pesticides, métaux lourds, HAP)\n• Traçabilité complète — de la parcelle au numéro de lot"
+      ],
+      "safety_followUp": ["Voulez-vous des détails sur nos certifications ou nos protocoles d'analyse en laboratoire ?"],
+      "careers": [
+        "THYNARA est toujours à la recherche de talents passionnés pour rejoindre notre équipe en croissance.\n\n**Postes actuellement ouverts :**\n• Responsable Qualité & Laboratoire — Division Trituration\n• Chef de Culture — Oliveraies de Kairouan\n• Responsable Export — Marchés Asie-Pacifique\n• Programme Jeunes Diplômés 2026 — 8 postes en agronomie, qualité et commerce\n\n**Ce que nous offrons :**\n• Rémunération compétitive et primes de campagne\n• Formation continue en oléiculture et oléotechnie\n• Opportunités de développement dans un secteur en croissance\n• Un environnement où la passion pour l'olivier est partagée\n\nLes candidatures sont examinées en continu."
+      ],
+      "careers_followUp": ["Souhaitez-vous postuler à un poste spécifique, ou en savoir plus sur notre programme jeunes diplômés ?"],
+      "investment": [
+        "THYNARA offre des opportunités d'investissement et de partenariat à travers notre chaîne de valeur intégrée.\n\n**Points forts :**\n• 150 000+ oliviers en culture — actif agricole de long terme\n• Capacité de trituration : 120 tonnes/jour\n• Export vers 26 pays — base client diversifiée\n• Croissance annuelle du chiffre d'affaires : +12 % sur 5 ans\n• Marge EBITDA : 28 % — performance supérieure au secteur\n\n**Modèles de partenariat :**\n• Joint-venture — développement de nouvelles oliveraies\n• Contrats d'approvisionnement à long terme\n• Co-branding et marque blanche\n• Investissement dans la capacité de trituration\n• Partenariat de distribution exclusive par pays\n\nNotre direction est disponible pour des discussions détaillées."
+      ],
+      "investment_followUp": ["Dois-je vous mettre en contact avec notre direction, ou fournir notre dernière présentation investisseurs ?"],
+      "contact": [
+        "Voici comment nous joindre :\n\n**Siège Social**\nGroupe THYNARA\nRue du Lac Windermere\nLes Berges du Lac, Tunis 1053\nTunisie\n\n**Demandes générales :** contact@thynara.tn\n**Export & Partenariats :** export@thynara.tn\n**Qualité & Certifications :** qualite@thynara.tn\n**Carrières :** carrieres@thynara.tn\n\n**Heures de bureau :** Lun–Ven, 08h30–17h30 (CET)\n**Moulin (pendant la campagne) :** Disponible 7j/7 d'octobre à janvier\n\nSouhaitez-vous planifier une réunion avec un département spécifique ?"
+      ],
+      "contact_followUp": ["Quel département souhaitez-vous joindre ?"],
+      "pricing": [
+        "Les prix de nos huiles d'olive sont déterminés par plusieurs facteurs :\n\n• **Grade** — Extra vierge, vierge, biologique, aromatisée\n• **Volume** — Tarifs dégressifs à partir de 1 tonne\n• **Conditionnement** — Vrac (citerne/flexitank) ou conditionné (bouteille/bag-in-box)\n• **Durée du contrat** — Spot, semestriel ou annuel\n• **Incoterms** — FOB Sfax, CIF, CFR ou DDP\n\n**Indicatif (EVOO, vrac, FOB Sfax) :** 4 200–5 800 €/tonne selon la campagne\n**Conditionné (EVOO, 750 ml) :** à partir de 6,20 € départ usine\n\nPour un devis formel, notre équipe commerciale peut préparer une proposition sur mesure sous 24 heures.\n\nSouhaitez-vous que j'initie une demande de prix pour vous ?"
+      ],
+      "pricing_followUp": ["Quel grade d'huile et quel volume vous intéressent ?"],
+      "technology": [
+        "THYNARA investit dans les technologies oléicoles les plus avancées pour garantir une qualité irréprochable :\n\n**Moulin & Extraction :**\n• Décanteurs biphasiques de dernière génération\n• Extraction à froid — température contrôlée <27°C\n• Malaxage sous atmosphère d'azote — préservation des polyphénols\n• Filtration tangentielle pour une limpidité parfaite\n\n**Laboratoire & Analyse :**\n• Spectrophotométrie UV (K232/K270)\n• Chromatographie en phase gazeuse — profil d'acides gras\n• Panel de dégustation certifié COI\n• Analyse de résidus de pesticides (multi-résidus)\n\n**Traçabilité :**\n• Système ERP intégré — du verger au lot de production\n• QR code sur chaque bouteille — accès aux données parcellaires\n• Gestion de stock en temps réel — cuves connectées"
+      ],
+      "technology_followUp": ["Intéressé par notre technologie d'extraction ou nos capacités d'analyse ?"],
+      "quality": [
+        "L'assurance qualité est non négociable chez THYNARA.\n\n**Certifications :**\n• ISO 9001:2015 — Management de la Qualité\n• ISO 22000:2018 — Sécurité Alimentaire\n• BRC Food Safety — Grade A\n• Normes COI — Conseil Oléicole International\n• EU Organic / AB — Agriculture Biologique\n• HACCP — Maîtrise des points critiques\n\n**Capacités de laboratoire :**\n• Acidité oléique libre (méthode COI)\n• Indice de peroxyde et stabilité oxydative (Rancimat)\n• Absorbance UV — K232, K270, Delta K\n• Profil d'acides gras par chromatographie\n• Panel organoleptique certifié — médiane du fruité, amertume, piquant\n• Recherche de contaminants et résidus\n\nChaque lot est expédié avec un Certificat d'Analyse complet et un Certificat d'Origine."
+      ],
+      "quality_followUp": ["Besoin de certificats d'analyse ou de spécifications pour un grade particulier ?"],
+      "shipping": [
+        "THYNARA gère la logistique de bout en bout pour toutes les livraisons :\n\n**Logistique maritime :**\n• Expédition conteneurs complets (FCL) et groupage (LCL)\n• Formats vrac : flexitank (22 t), IBC (1 000 L), citernes isothermes\n• Ports d'embarquement : Sfax, La Goulette, Radès\n• Délai moyen de chargement : 48 heures\n\n**Distribution terrestre :**\n• Flotte de camions-citernes alimentaires certifiés\n• Livraison directe en Tunisie, Libye et Algérie\n• Suivi GPS avec mises à jour en temps réel\n\n**Conditions de livraison :** FOB, CIF, CFR, DDP — flexibles selon les exigences du client.\n\nLes expéditions incluent toute la documentation : Connaissement, Certificat d'Analyse, Certificat d'Origine, EUR.1, certificat sanitaire et phytosanitaire."
+      ],
+      "shipping_followUp": ["Quelle destination et quel volume dois-je estimer pour la logistique ?"],
+      "who": [
+        "THYNARA est une maison oléicole tunisienne intégrée, opérant sur l'ensemble de la chaîne de valeur de l'huile d'olive — de la culture de l'olivier et la récolte, à la trituration et l'extraction à froid, jusqu'à la mise en bouteille et l'exportation internationale.\n\nNous combinons près de deux décennies de savoir-faire oléicole avec des technologies d'extraction de pointe pour produire des huiles d'olive d'exception, exportées dans 26 pays. Notre équipe compte plus de 840 spécialistes passionnés.\n\n**Valeurs fondamentales :** Authenticité, Excellence, Durabilité, Terroir\n**Vision :** Faire de l'huile d'olive tunisienne une référence mondiale de qualité\n\nQuel aspect de THYNARA souhaitez-vous explorer davantage ?"
+      ],
+      "who_followUp": ["Opérations, produits, carrières ou opportunités de partenariat ?"],
+      "thanks": [
+        "Je vous en prie. Ce fut un plaisir de vous assister. Si vous avez d'autres questions à l'avenir, n'hésitez pas à revenir — THYNARA IA est disponible 24/7.",
+        "Ravi d'avoir pu aider ! S'il y a quoi que ce soit d'autre que vous aimeriez savoir sur THYNARA et nos huiles d'olive, je suis toujours là. Je vous souhaite une excellente journée.",
+        "Merci pour vos aimables paroles. L'équipe THYNARA est toujours là pour vous aider. Y a-t-il autre chose que je puisse faire pour vous avant de conclure ?"
+      ],
+      "bye": [
+        "Merci d'avoir discuté avec THYNARA IA. Ce fut un plaisir de vous assister. Nous espérons avoir de vos nouvelles bientôt. Excellente journée.",
+        "Au revoir ! Si vous avez besoin d'assistance, THYNARA IA est là 24/7. Tous nos vœux."
+      ],
+      "capabilities": [
+        "Je peux vous aider sur un large éventail de sujets :\n\n• **Opérations** — Culture, récolte, trituration, mise en bouteille\n• **Produits** — Extra vierge, biologique, aromatisées, vrac\n• **Business** — Partenariats, investissement, prix, contrats d'export\n• **Carrières** — Postes ouverts, programme jeunes diplômés\n• **Technique** — Qualité, certifications COI, technologie d'extraction\n• **Logistique** — Expédition, formats de livraison, documentation\n• **Durabilité** — Agriculture biologique, communautés, environnement\n• **Contact** — Bureaux, départements, planification de réunions\n\nPosez votre question et je vous fournirai les informations les plus pertinentes."
+      ],
+      "capabilities_followUp": ["Quel sujet vous intéresse le plus ?"],
+      "csr": [
+        "THYNARA est profondément engagé envers les communautés oléicoles où nous opérons :\n\n**Programme de soutien aux petits oléiculteurs :**\n• 120 petits producteurs accompagnés via des contrats équitables\n• Formation gratuite aux pratiques de culture durable\n• Accès à nos moulins pour la trituration à tarif préférentiel\n\n**Coopératives féminines :**\n• 8 partenariats actifs avec des coopératives de femmes dans le Sahel\n• Programme de formation à la cueillette et au tri des olives\n• Soutien à l'autonomisation économique en milieu rural\n\n**Environnement :**\n• Plantation de 12 000 oliviers par an\n• Valorisation de 100 % des grignons en compost et biomasse\n• Réduction de 60 % de la consommation d'eau par l'irrigation goutte-à-goutte\n\nNous consacrons 2 % du chiffre d'affaires annuel aux programmes communautaires."
+      ],
+      "csr_followUp": ["Voulez-vous en savoir plus sur nos coopératives féminines ou nos programmes de soutien aux agriculteurs ?"],
+      "competitor": [
+        "Ce qui distingue THYNARA :\n\n• **Chaîne de valeur intégrée** — Du verger à la bouteille, nous contrôlons chaque étape pour garantir une qualité irréprochable\n• **Terroir unique** — Les oliveraies de Sfax et du Sahel bénéficient d'un ensoleillement et d'un sol exceptionnels\n• **Trituration ultrarapide** — Moins de 4 heures entre la récolte et la presse, préservant les polyphénols et les arômes\n• **Double certification** — Conventionnel et biologique sur une même infrastructure\n• **Flexibilité commerciale** — Du flacon de 250 ml au conteneur de 22 tonnes en flexitank\n• **Origine Tunisie** — 4e producteur mondial d'huile d'olive, terroir reconnu par le COI\n• **Prix-qualité** — Excellence organoleptique à des conditions compétitives grâce à nos coûts de production maîtrisés\n\nNous ne vendons pas seulement de l'huile d'olive — nous partageons un terroir et un savoir-faire."
+      ],
+      "competitor_followUp": ["Souhaitez-vous une comparaison détaillée sur une capacité spécifique ?"],
+      "negative": [
+        "Je suis désolé d'apprendre cela. Vos retours sont très importants pour nous. Permettez-moi de vous mettre en contact avec notre équipe Qualité & Relations Clients qui pourra traiter directement votre préoccupation. Pourriez-vous partager vos coordonnées ou le problème spécifique ?",
+        "Je comprends votre frustration et je m'excuse sincèrement pour tout inconvénient. THYNARA prend chaque préoccupation au sérieux — la qualité de nos huiles et la satisfaction de nos partenaires sont notre priorité absolue. Souhaitez-vous que j'escalade cette situation ?",
+        "Merci de nous avoir signalé cela. Nous nous tenons aux normes les plus élevées, et quand nous n'y répondons pas, nous voulons corriger le tir. Veuillez contacter qualite@thynara.tn en référençant cette conversation pour un traitement prioritaire."
+      ],
+      "fallback1": "Merci pour votre question. Je serais ravi de vous aider. Pourriez-vous fournir un peu plus de contexte ? Par exemple, êtes-vous intéressé par nos huiles d'olive, nos opérations oléicoles, des opportunités d'importation, ou autre chose ?",
+      "fallback1_chips": ["Opérations", "Produits", "Partenariat", "Carrières"],
+      "fallback2": "C'est une excellente question. Bien que je n'aie pas les détails spécifiques sous la main, notre équipe serait la mieux placée pour vous donner une réponse précise. Je peux :\n\n• Vous mettre en contact avec le département concerné\n• Faire en sorte qu'un spécialiste vous réponde par email sous 24 heures\n• Planifier un appel à votre convenance\n\nQue préférez-vous ?",
+      "fallback3": "J'apprécie que vous partagiez cela. Pour m'assurer de vous diriger vers les bonnes ressources, pourriez-vous m'en dire un peu plus sur ce que vous recherchez ? Je suis bien informé sur nos huiles d'olive, nos opérations, nos partenariats, nos certifications et plus encore."
+    }
+  },
+
+  "langSelector": {
+    "en": "EN",
+    "fr": "FR",
+    "ar": "عربي"
+  }
+}
