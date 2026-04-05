@@ -27,7 +27,7 @@ export default function HomeNumbers() {
 
   const STATS = [
     { value: 21,   suffix: '',  decimals: 0, label: t('numbers.stat1_label') },
-    { value: 12,   suffix: 'K+', decimals: 0, label: t('numbers.stat2_label') },
+    { value: 700,  suffix: '+',  decimals: 0, label: t('numbers.stat2_label') },
     { value: 150,  suffix: 'K+', decimals: 0, label: t('numbers.stat3_label') },
     { value: 26,   suffix: '',  decimals: 0, label: t('numbers.stat4_label') },
   ]

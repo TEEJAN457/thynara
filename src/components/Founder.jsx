@@ -71,7 +71,18 @@ export default function Founder() {
 
         <div className="founder__body reveal reveal--d3">
           <p>{t('founder.body3')}</p>
+          {t('founder.body4') && <p>{t('founder.body4')}</p>}
         </div>
+
+        {/* Closing statement */}
+        {t('founder.closing1') && (
+          <div className="founder__closing reveal reveal--d4">
+            <h3 className="founder__closing-title">{t('founder.closing_title')}</h3>
+            <p>{t('founder.closing1')}</p>
+            <p className="founder__closing-emphasis">{t('founder.closing2')}</p>
+            <p className="founder__closing-final">{t('founder.closing3')}</p>
+          </div>
+        )}
 
         <div className="founder__credentials reveal reveal--d4">
           <div className="founder__credential">

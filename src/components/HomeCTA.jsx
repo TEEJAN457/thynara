@@ -20,9 +20,10 @@ export default function HomeCTA() {
           <span>{t('home.cta.btn')}</span>
           <span aria-hidden="true">{"\u2192"}</span>
         </Link>
-        <a href="mailto:contact@thynara.tn" className="home-cta__email">
-          contact@thynara.tn
-        </a>
+        <Link to="/contact" className="home-cta__btn home-cta__btn--outline">
+          <span>{t('home.cta.btn2')}</span>
+          <span aria-hidden="true">{"\u2192"}</span>
+        </Link>
       </div>
     </section>
   )

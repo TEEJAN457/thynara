@@ -1,14 +1,54 @@
+import { Link } from 'react-router-dom'
 import { useRevealGroup } from '../hooks/useRevealGroup'
 import { useTranslation } from '../i18n/LanguageContext'
 
-const SPECS = [
-  'acidity', 'peroxide', 'polyphenols', 'k232', 'k270',
-  'extraction', 'varietal', 'origin',
-]
+const P1_DETAILS = ['origin', 'type', 'harvest', 'extraction', 'quality', 'use', 'packaging', 'supply']
+const P3_DETAILS = ['origin', 'type', 'harvest', 'extraction', 'quality', 'sizes', 'use', 'supply']
+const P2_DETAILS = ['origin', 'type', 'use', 'supply']
+const CERTS = [1, 2, 3]
 
-const CERTS = [1, 2, 3, 4, 5, 6]
-const STORAGE = [1, 2, 3, 4, 5]
-const PKGS = [1, 2, 3, 4, 5, 6]
+function ProductCard({ prefix, details, image, t, delay }) {
+  return (
+    <article className={`prod-card reveal reveal--d${delay}`}>
+      <div className="prod-card__img-wrap">
+        <img
+          src={image}
+          alt={t(`products.${prefix}_name`)}
+          className="prod-card__img"
+        />
+      </div>
+      <div className="prod-card__info">
+        <span className="prod-card__tag">{t(`products.${prefix}_tag`)}</span>
+        <h2 className="prod-card__name">{t(`products.${prefix}_name`)}</h2>
+        <p className="prod-card__grade">{t(`products.${prefix}_grade`)}</p>
+        <p className="prod-card__desc">{t(`products.${prefix}_desc`)}</p>
+
+        <div className="prod-card__details">
+          {details.map(key => {
+            const val = t(`products.${prefix}_detail_${key}`)
+            if (!val) return null
+            return (
+              <div className="prod-card__detail" key={key}>
+                <span className="prod-card__detail-label">{t(`products.detail_${key}`)}</span>
+                <span className="prod-card__detail-val">{val}</span>
+              </div>
+            )
+          })}
+        </div>
+
+        {/* Certifications */}
+        <div className="prod-card__certs">
+          <h3 className="prod-card__certs-title">{t('products.cert_title')}</h3>
+          <ul className="prod-card__certs-list">
+            {CERTS.map(n => (
+              <li key={n}>{t(`products.cert${n}`)}</li>
+            ))}
+          </ul>
+        </div>
+      </div>
+    </article>
+  )
+}
 
 export default function Products() {
   const ref = useRevealGroup()
@@ -17,89 +57,58 @@ export default function Products() {
   return (
     <section className="products" id="products" ref={ref}>
 
-      {/* Hero product showcase */}
-      <div className="prod-showcase reveal">
-        <div className="prod-showcase__img-wrap">
-          <img
-            src="/Gemini_Generated_Image_40lapo40lapo40la (1).png"
-            alt={t('products.p1_name')}
-            className="prod-showcase__img"
-          />
-        </div>
-        <div className="prod-showcase__info">
-          <span className="prod-showcase__tag">{t('products.p1_tag')}</span>
-          <h2 className="prod-showcase__name">{t('products.p1_name')}</h2>
-          <p className="prod-showcase__grade">{t('products.p1_grade')}</p>
-          <p className="prod-showcase__desc">{t('products.p1_desc')}</p>
-        </div>
+      {/* Product 1: Extra Virgin */}
+      <ProductCard
+        prefix="p1"
+        details={P1_DETAILS}
+        image="/Gemini_Generated_Image_40lapo40lapo40la (1).png"
+        t={t}
+        delay={1}
+      />
+
+      {/* Product 3: Bottled */}
+      <ProductCard
+        prefix="p3"
+        details={P3_DETAILS}
+        image="/WhatsApp Image 2026-04-05 at 15.17.14.jpeg"
+        t={t}
+        delay={2}
+      />
+
+      {/* Product 2: Organic */}
+      <ProductCard
+        prefix="p2"
+        details={P2_DETAILS}
+        image="/Gemini_Generated_Image_pfb22vpfb22vpfb2 (1).png"
+        t={t}
+        delay={3}
+      />
+
+      {/* Expanding the Collection */}
+      <div className="prod-expanding reveal reveal--d4">
+        <h3 className="prod-expanding__title">{t('products.expanding_title')}</h3>
+        <p className="prod-expanding__body">{t('products.expanding_body')}</p>
+        <p className="prod-expanding__note">{t('products.expanding_note')}</p>
       </div>
 
-      {/* Technical Specifications */}
-      <div className="prod-specs reveal reveal--d1">
-        <h3 className="prod-section-title">{t('products.specs_title')}</h3>
-        <div className="prod-specs__grid">
-          {SPECS.map(key => (
-            <div className="prod-specs__row" key={key}>
-              <span className="prod-specs__label">{t(`products.spec_${key}`)}</span>
-              <span className="prod-specs__val">{t(`products.spec_${key}_val`)}</span>
-            </div>
-          ))}
-        </div>
-      </div>
-
-      {/* Tasting Notes */}
-      <div className="prod-tasting reveal reveal--d2">
-        <h3 className="prod-section-title">{t('products.tasting_title')}</h3>
-        <div className="prod-tasting__grid">
-          <div className="prod-tasting__item">
-            <span className="prod-tasting__label">{t('products.tasting_nose')}</span>
-            <p className="prod-tasting__val">{t('products.tasting_nose_val')}</p>
-          </div>
-          <div className="prod-tasting__item">
-            <span className="prod-tasting__label">{t('products.tasting_palate')}</span>
-            <p className="prod-tasting__val">{t('products.tasting_palate_val')}</p>
-          </div>
-          <div className="prod-tasting__item">
-            <span className="prod-tasting__label">{t('products.tasting_finish')}</span>
-            <p className="prod-tasting__val">{t('products.tasting_finish_val')}</p>
-          </div>
-          <div className="prod-tasting__item prod-tasting__item--full">
-            <span className="prod-tasting__label">{t('products.tasting_pairing')}</span>
-            <p className="prod-tasting__val">{t('products.tasting_pairing_val')}</p>
-          </div>
-        </div>
-      </div>
-
-      {/* Certifications & Storage side by side */}
-      <div className="prod-details reveal reveal--d3">
-        <div className="prod-certs">
-          <h3 className="prod-section-title">{t('products.cert_title')}</h3>
-          <ul className="prod-certs__list">
-            {CERTS.map(n => (
-              <li className="prod-certs__item" key={n}>{t(`products.cert${n}`)}</li>
-            ))}
-          </ul>
-        </div>
-        <div className="prod-storage">
-          <h3 className="prod-section-title">{t('products.storage_title')}</h3>
-          <ul className="prod-storage__list">
-            {STORAGE.map(n => (
-              <li className="prod-storage__item" key={n}>{t(`products.storage${n}`)}</li>
-            ))}
-          </ul>
-        </div>
-      </div>
-
-      {/* Available Formats */}
-      <div className="prod-packaging reveal reveal--d4">
-        <h3 className="prod-section-title">{t('products.packaging_title')}</h3>
-        <div className="prod-packaging__grid">
-          {PKGS.map(n => (
-            <div className="prod-packaging__item" key={n}>
-              <span className="prod-packaging__size">{t(`products.pkg${n}_size`)}</span>
-              <span className="prod-packaging__type">{t(`products.pkg${n}_type`)}</span>
-            </div>
-          ))}
+      {/* For Professional Buyers */}
+      <div className="prod-buyers reveal reveal--d4">
+        <span className="eyebrow">{t('products.buyers_eyebrow')}</span>
+        <h3 className="prod-buyers__title">{t('products.buyers_title')}</h3>
+        <ul className="prod-buyers__list">
+          <li>{t('products.buyers_item1')}</li>
+          <li>{t('products.buyers_item2')}</li>
+        </ul>
+        <p className="prod-buyers__note">{t('products.buyers_note')}</p>
+        <div className="prod-buyers__actions">
+          <Link to="/contact" className="prod-buyers__btn">
+            <span>{t('products.buyers_cta1')}</span>
+            <span aria-hidden="true">{"\u2192"}</span>
+          </Link>
+          <Link to="/contact" className="prod-buyers__btn prod-buyers__btn--outline">
+            <span>{t('products.buyers_cta2')}</span>
+            <span aria-hidden="true">{"\u2192"}</span>
+          </Link>
         </div>
       </div>
 

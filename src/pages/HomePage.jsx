@@ -1,21 +1,25 @@
-import Hero         from '../components/Hero'
-import HomeIntro    from '../components/HomeIntro'
-import HomeServices from '../components/HomeServices'
-import HomeNumbers  from '../components/HomeNumbers'
-import HomeHeritage from '../components/HomeHeritage'
+import Hero              from '../components/Hero'
+import HomeIntro         from '../components/HomeIntro'
+import HomeQuotes        from '../components/HomeQuotes'
+import HomeNumbers       from '../components/HomeNumbers'
+import HomeServices      from '../components/HomeServices'
+import HomeHeritage      from '../components/HomeHeritage'
+import HomePositioning   from '../components/HomePositioning'
 import HomeCertifications from '../components/HomeCertifications'
-import HomeCTA      from '../components/HomeCTA'
+import HomeCTA           from '../components/HomeCTA'
 
 export default function HomePage() {
   return (
     <>
       <Hero />
-      <HomeIntro />     {/* ░░ CREAM — quote + body + mini stats */}
-      <HomeServices />  {/* ██ DARK  — 3 navigation cards */}
-      <HomeNumbers />   {/* ░░ CREAM — animated counters */}
-      <HomeHeritage />  {/* ██ DARK  — image placeholder + story teaser */}
+      <HomeIntro />           {/* ░░ CREAM — origin story */}
+      <HomeQuotes />          {/* ██ DARK  — founder quotes */}
+      <HomeNumbers />         {/* ░░ CREAM — supply & market stats */}
+      <HomeServices />        {/* ██ DARK  — 3 navigation cards */}
+      <HomeHeritage />        {/* ██ DARK  — emblem story */}
+      <HomePositioning />     {/* ░░ CREAM — target market + track record */}
       <HomeCertifications />  {/* ░░ CREAM — certification logos */}
-      <HomeCTA />       {/* ██ DARK  — closing call to action */}
+      <HomeCTA />             {/* ██ DARK  — work with us */}
     </>
   )
 }

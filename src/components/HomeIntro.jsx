@@ -19,7 +19,9 @@ export default function HomeIntro() {
           <br />
           <span>{t('home.intro.quote_l2')} <em>{t('home.intro.quote_em')}</em>.{"\u201D"}</span>
         </blockquote>
-        <p className="home-intro__attr reveal reveal--d1">{t('home.intro.attr')}</p>
+        {t('home.intro.attr') && (
+          <p className="home-intro__attr reveal reveal--d1">{t('home.intro.attr')}</p>
+        )}
 
         <div className="home-intro__bar reveal reveal--d2" aria-hidden="true" />
 
